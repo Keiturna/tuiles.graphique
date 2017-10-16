@@ -26,7 +26,12 @@ School work about Style Tiles
 <h2>IV. Références</h2>
 
   www.spotify.com<br>
-  www.soundcloud.com
+  www.soundcloud.com<br>
+  www.apple.com/fr/music/<br>
+  play.google.com/music/listen<br>
+  http://fr.napster.com/<br>
+  http://www.qobuz.com/fr-fr/plans/<br>
+  http://tidal.com/<br>
   <br>
   <br>
   <br>
