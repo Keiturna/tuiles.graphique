@@ -4,7 +4,7 @@ School work about Style Tiles
 <h2>I. Projet</h2>
 
   Nom du projet : One Page - Deezer<br>
-  Auteur : Grégoire BRILLE (Keiturna)<br>
+  Auteur : Grégoire BRILLE (<b>Keiturna</b>)<br>
   Mail : gbrille@hotmail.fr<br>
   Site web : www.keiturna.fr
   <br>
@@ -28,7 +28,7 @@ School work about Style Tiles
   www.spotify.com<br>
   www.soundcloud.com<br>
   www.apple.com/fr/music/<br>
-  play.google.com/music/listen<br>
+  http://play.google.com/music/listen<br>
   http://fr.napster.com/<br>
   http://www.qobuz.com/fr-fr/plans/<br>
   http://tidal.com/<br>
@@ -36,4 +36,4 @@ School work about Style Tiles
   <br>
   <br>
   <br>
-Mis à jour le : 16 octobre 2017 à 9h25
+Mis à jour le : 16 octobre 2017 à 10h39
