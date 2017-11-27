@@ -1,4 +1,4 @@
-# tuiles.graphique
+# Tuiles Graphique
 School work about Style Tiles
 
 <h2>I. Projet</h2>
